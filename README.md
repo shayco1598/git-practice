@@ -1,5 +1,5 @@
-# goofy ahh niggas
-## website for goofy ahh niggas
+# goofy ahhs
+## website for goofy ahh fellows
 ---
 
 - HTML
